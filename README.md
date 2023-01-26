@@ -22,9 +22,8 @@ Deployed websie: https://nitish2101.itch.io/aqua-run
 
 BUILT WITH: 
 <br>
-* HTML
-* CSS
-* JAVASCRIPT
+* Unity Engine
+* c#
 <hr>
 
 AUTHOR:
